@@ -5,8 +5,8 @@ jdk:
   - openjdk11
 
 arch:
-  - ppc64le
-  - amd64
+   - amd64
+   - ppc64le
 
 # allow-list to prevent build of all branches
 branches:
